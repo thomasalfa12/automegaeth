@@ -12,10 +12,37 @@ A fullstack DApp + Python auto-trading bot integrated with **Next.js** + **Socke
 
 Pastikan `Node.js` dan `Python 3` sudah terinstal di sistem kamu.
 
+✅ macOS (pakai Homebrew – disarankan)
+```bash
+brew install node
+```
+```bash
+brew install pyhton3
+```
+✅ Windows
+Buka: https://nodejs.org
+Download LTS version
+Klik install seperti biasa (next-next).
+
+Buka: https://www.python.org/downloads/
+Download dan install.
+Centang "Add Python to PATH" saat instalasi.
+
+✅ Ubuntu / Linux
+```bash
+sudo apt update
+sudo apt install nodejs npm
+```
+```bash
+sudo apt update
+sudo apt install python3 python3-pip
+```
+
+✅ Setelah Install Node
+
 ```bash
 npm install
 ```
-
 ---
 
 ### ✅ Jalankan Web (UI)
