@@ -1,4 +1,4 @@
-# AutoMegaETH 🐍⚡
+# AutoMegaETH - GTE DEX 🐍⚡
 
 A fullstack DApp + Python auto-trading bot integrated with **Next.js** + **Socket.IO** + **Uniswap** + **Python scripts**.
 
@@ -120,7 +120,7 @@ Jika kamu butuh live log dari bot ke UI, pastikan server `npm run dev` sedang be
 ## UNTUK MENAMBAH JENIS TOKEN YANG AKAN DI TRADE, 
 /script/token_outs.py => add sc token, hindari token low liquidity
 ---
-### 🚀 Roadmap Fitur AutoMegaETH
+### 🚀 Roadmap Fitur AutoMegaETH - GTE DEX
 
 Fitur-fitur yang sedang direncanakan & dikembangkan untuk memperkuat ekosistem trading otomatis ini:
 
