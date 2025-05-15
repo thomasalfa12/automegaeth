@@ -38,8 +38,16 @@ sudo apt update
 sudo apt install python3 python3-pip
 ```
 
-✅ Setelah Install Node
-
+✅ Setelah Install Node.js dan pyhton3
+copy project ke local directory
+```bash
+https://github.com/thomasalfa12/automegaeth.git
+```
+or
+```bash
+gh repo clone thomasalfa12/automegaeth
+```
+setelah terinstal, di root cli run:
 ```bash
 npm install
 ```
