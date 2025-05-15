@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Python __pycache__
+**/__pycache__/
+
+# Python virtualenvs (optional)
+.venv/
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs & pids
+*.log
+logs/
+.pid
+
+# Environment variables
+.env
+.env.local
+
+# Optional: VS Code settings
+.vscode/
+
+# Compiled output
+dist/
+build/
+
+# OS-specific
+*.swp
