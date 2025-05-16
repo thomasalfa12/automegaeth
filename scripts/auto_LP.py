@@ -24,7 +24,6 @@ CHAIN_ID = int(require_env("CHAIN_ID"))
 ROUTER_ADDRESS = Web3.to_checksum_address(require_env("ROUTER_ADDRESS"))
 WETH_ADDRESS = Web3.to_checksum_address("0x776401b9bc8aae31a685731b7147d4445fd9fb19")
 
-
 SLIPPAGE = 0.1  # 10%
 
 web3 = Web3(Web3.HTTPProvider(RPC_URL))
